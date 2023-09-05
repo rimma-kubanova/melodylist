@@ -1,0 +1,6 @@
+setup.py
+Melody_Playlist_Powered_by_Spotify.egg-info/PKG-INFO
+Melody_Playlist_Powered_by_Spotify.egg-info/SOURCES.txt
+Melody_Playlist_Powered_by_Spotify.egg-info/dependency_links.txt
+Melody_Playlist_Powered_by_Spotify.egg-info/requires.txt
+Melody_Playlist_Powered_by_Spotify.egg-info/top_level.txt
